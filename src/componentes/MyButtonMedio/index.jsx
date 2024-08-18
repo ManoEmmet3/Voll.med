@@ -1,7 +1,7 @@
 import * as React from 'react';
 import MyButton from '../MyButton';
 
-export default function MyButtonIcon(props) {
+export default function MyButtonMedio(props) {
     return (
         <MyButton
             variant="contained"
